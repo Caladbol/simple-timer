@@ -10,7 +10,7 @@ body {
 .wrapper {
     color: var(--text);
     border: 2px solid var(--text);
-    width: 96vw;
+    width: 94vw;
     height: 85vh;
     min-height: 250px;
     max-height: 89vh;
@@ -48,4 +48,5 @@ button {
     display: flex;
     justify-content: space-between;
     flex-direction: row;
+    size: auto;
 }
