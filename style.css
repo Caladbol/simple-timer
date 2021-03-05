@@ -45,8 +45,6 @@ button {
 }
 
 .buttons {
-    display: flex;
+    display: inline-block;
     justify-content: space-between;
-    flex-direction: row;
-    size: auto;
 }
